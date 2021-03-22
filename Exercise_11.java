@@ -26,6 +26,8 @@ public class Main {
 // (d)
 //      (b) Removing at the object at the top of this stack
 //      (c) Looks at the object at the top of this stack without removing it from the stack.
+        
+// (e) The icon depicts a stack ☺ 
 
     }
 }
