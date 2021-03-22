@@ -1,0 +1,13 @@
+All classes in java are inherited from Object class
+
+-   clone()
+-   equals(Object obj)
+- 	finalize()
+-   getClass()
+- 	hashCode()
+- 	notify()
+- 	notifyAll()
+- 	toString()
+- 	wait()
+- 	wait(long timeout)
+- 	wait(long timeout, int nanos)
