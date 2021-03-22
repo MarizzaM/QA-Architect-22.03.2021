@@ -1,0 +1,12 @@
+- Primitives are passed by value, i.e. a copy of the primitive itself is passed. 
+Whereas for objects, the copy of the reference is passed, not the object itself.
+
+- Primitives are independent data types, i.e. there does not exist a hierarchy/super class for them. 
+Whereas every Object is descendent of class "Object".
+
+- Every object has some default methods of itself, which it inherits from the 
+class Object (e.g. toString(), clone(), wait(), notify(), notifyAll(), etc.). 
+The primitives does not have any method associated with themselves.
+
+- Primitives are immutable, they can be used as so without any special care. 
+Whereas for objects, special care needs to be taken, they are not immutable by default.
