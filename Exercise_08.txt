@@ -1,0 +1,3 @@
+In the angular brackets we specify type of Collection
+
+Type of Collection cannot be of primitive type
