@@ -1,0 +1,11 @@
+Comparable interface is used to sort the objects with natural ordering.
+Comparator in Java is used to sort attributes of different objects.
+
+Comparable interface compares “this” reference with the object specified.
+Comparator in Java compares two different class objects provided.
+
+Comparable is present in java.lang package.
+A Comparator is present in the java.util package.
+
+Comparable provides compareTo() method to sort elements.
+Comparator provides compare() method, equals() method to sort elements.
