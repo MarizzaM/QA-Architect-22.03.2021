@@ -1,0 +1,2 @@
+ By using generics, we can implement generic algorithms that work on collections of different types, 
+ can be customized, and are type safe and easier to read.
